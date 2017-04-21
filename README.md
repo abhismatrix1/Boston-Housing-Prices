@@ -1,2 +1,4 @@
-# Boston-Housing-Prices
-Predicting Boston Housing Prices
+# Machine Learning Engineer Nanodegree¶
+Model Evaluation & Validation
+
+Project: Predicting Boston Housing Prices
